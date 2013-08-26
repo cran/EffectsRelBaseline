@@ -1,0 +1,16 @@
+4fe869ee987a340198fb0d54c55c47f1 *COPYING
+bcb258d6c02b356e79f462bc4ad0c664 *DESCRIPTION
+0d8beb08d90c9123ef93549d45c17db9 *NAMESPACE
+d7d32f0e579b93ce2576b27a47d08565 *R/LL1WayAnova.R
+7f77375eca5e58cec8d8c38120ce29e6 *R/fRatioStat.R
+7cdf29f0148401ae578255be7b873326 *R/raceEffectBootAdaptor.R
+210d92379835d82c922938a41114115d *R/relBackgroundLL.R
+f481f0289e3982d1cce67eb42bbca66a *R/sumSqCat.R
+3cc5a04fe8fdd843868c055824ca0cd7 *data/ef.txt.gz
+b204721d53709c93d31e77d933ca4bbc *man/EffectsRelBaseline-package.Rd
+a4b46e59152f580059c73ab9d22d92d3 *man/LL1WayAnova.Rd
+dc6727aae0f9bd4582f959dba326e9c2 *man/ef.Rd
+571cff519bad017fd49de696752424fb *man/fRatioStat.Rd
+4278a0a1ad8200c7ca341781b3db1d34 *man/raceEffectBootAdaptor.Rd
+0a3a4c7ec647a118515715ec47177032 *man/relBackgroundLL.Rd
+ef98e26078e1648d4aa7714eeca04311 *man/sumSqCat.Rd
